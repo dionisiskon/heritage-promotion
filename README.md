@@ -1,4 +1,6 @@
-# [Basically Basic Jekyll Theme]
+# [heritage-promotion]
+
+## [Using jekyll-theme-basically-basic](https://github.com/mmistakes/jekyll-theme-basically-basic)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/mmistakes/jekyll-theme-basically-basic/blob/master/LICENSE)
 [![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.6-blue.svg)](https://jekyllrb.com/)
