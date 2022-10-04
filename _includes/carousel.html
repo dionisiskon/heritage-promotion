@@ -29,29 +29,29 @@
             {% for item in page.carousels[number].images %}
             
             {% if item.image contains 'Taj' %}
-              {% assign imagename = '/jekyll-theme-basically-basic/pois/Taj_Mahal.html' %}
+              {% assign imagename = '/heritage-promotion/pois/Taj_Mahal.html' %}
             {% elsif item.image contains 'Acropole' %}
-              {% assign imagename = '/jekyll-theme-basically-basic/pois/Acropole.html' %}
+              {% assign imagename = '/heritage-promotion/pois/Acropole.html' %}
             {% elsif item.image contains 'Machu' %}
-              {% assign imagename = '/jekyll-theme-basically-basic/pois/Machu_Pichu.html' %}
+              {% assign imagename = '/heritage-promotion/pois/Machu_Pichu.html' %}
             {% elsif item.image contains 'Petra' %}
-              {% assign imagename = '/jekyll-theme-basically-basic/pois/Petra.html' %}
+              {% assign imagename = '/heritage-promotion/pois/Petra.html' %}
             {% elsif item.image contains 'Bagan' %}
-              {% assign imagename = '/jekyll-theme-basically-basic/pois/Bagan.html' %}
+              {% assign imagename = '/heritage-promotion/pois/Bagan.html' %}
             {% elsif item.image contains 'Agia' %}
-              {% assign imagename = '/jekyll-theme-basically-basic/pois/Agia_Sofia.html' %}
+              {% assign imagename = '/heritage-promotion/pois/Agia_Sofia.html' %}
             {% elsif item.image contains 'Angkor' %}
-              {% assign imagename = '/jekyll-theme-basically-basic/pois/Angkor_Wat.html' %}
+              {% assign imagename = '/heritage-promotion/pois/Angkor_Wat.html' %}
             {% elsif item.image contains 'Giza' %}
-              {% assign imagename = '/jekyll-theme-basically-basic/pois/Giza_Pyramid_Complex.html' %}
+              {% assign imagename = '/heritage-promotion/pois/Giza_Pyramid_Complex.html' %}
             {% elsif item.image contains 'Mecca' %}
-              {% assign imagename = '/jekyll-theme-basically-basic/pois/Mecca.html' %}
+              {% assign imagename = '/heritage-promotion/pois/Mecca.html' %}
             {% elsif item.image contains 'Notre' %}
-              {% assign imagename = '/jekyll-theme-basically-basic/pois/Notre_Dame.html' %}
+              {% assign imagename = '/heritage-promotion/pois/Notre_Dame.html' %}
             {% elsif item.image contains 'Sagrada' %}
-              {% assign imagename = '/jekyll-theme-basically-basic/pois/Sagrada_Familia.html' %}
+              {% assign imagename = '/heritage-promotion/pois/Sagrada_Familia.html' %}
             {% elsif item.image contains 'Tibet' %}
-              {% assign imagename = '/jekyll-theme-basically-basic/pois/Tibet.html' %}
+              {% assign imagename = '/heritage-promotion/pois/Tibet.html' %}
             {% endif %}
 
               <li onclick="location.href='{{ imagename }}';" class="carousel__slide" style="cursor:pointer; background-image: url('{{ item.image }}');"></li>
