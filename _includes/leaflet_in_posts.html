@@ -1,0 +1,50 @@
+<html>
+<head>
+    <title>Simple Leaflet Map</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="https://d19vzq90twjlae.cloudfront.net/leaflet-0.7/leaflet.css" />
+</head>
+<body>
+
+    <div id="map" style="width: 100%; height: 600px"></div>
+
+    <script src="https://d19vzq90twjlae.cloudfront.net/leaflet-0.7/leaflet.js">
+    </script>
+
+    <script>
+
+    var planes = [
+        ["Ακρόπολη",37.971851, 23.726738],
+        ["Αγία Σοφία",41.008333, 28.979722],
+        ["Μαχαμπόντι",24.696004, 84.991358],
+        ["Βούδας του Ναού της Πηγής",33.775278, 112.451111],
+        ["Άνγκορ Βατ",13.4125, 103.866667],
+        ["Μπαγκάν",21.1725, 94.86],
+        ["Πυραμίδες της Γκίζας",29.976111, 31.132778],
+        ["Μάτσου Πίτσου",-13.163056, -72.545556],
+        ["Μέκκα",21.4225, 39.826111],
+        ["Παναγία των Παρισίων",48.853, 2.3498],
+        ["Πέτρα Ιορδανίας",30.328889, 35.440278],
+        ["Σαγράδα Φαμίλια",41.40369, 2.17433],
+        ["Ταζ Μαχάλ",27.174167, 78.042222],
+        ["Θιβέτ",31.705556, 86.940278]
+        ];
+
+        var map = L.map('map').setView([25, 65], 1.5);
+        mapLink = 
+            '<a href="http://openstreetmap.org">OpenStreetMap</a>';
+        L.tileLayer(
+            'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; ' + mapLink + ' Contributors',
+            maxZoom: 18,
+            }).addTo(map);
+
+        for (var i = 0; i < planes.length; i++) {
+            marker = new L.marker([planes[i][1],planes[i][2]])
+                .bindPopup(planes[i][0])
+                .addTo(map);
+        }
+               
+    </script>
+</body>
+</html>
