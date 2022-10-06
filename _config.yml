@@ -29,7 +29,7 @@ url: # the base hostname & protocol for your site e.g. "https://mmistakes.github
 #twitter_username:
 github_username: dionisiskon
 logo: "/assets/images/logo1.png" # path of site logo, e.g. "/assets/images/logo.png"
-search: # true, false (default)
+search: true # true, false (default)
 search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia
 algolia:
