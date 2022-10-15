@@ -8,6 +8,9 @@
 	body{
 		margin-left: -70px;
 	}
+  #masthead{
+		margin-left: 70px;
+	}
 } 
 body{
 	display: flex;
