@@ -1,4 +1,5 @@
 <header class="intro">
+  {% include share_buttons.html %}
   {% if page.image %}
     {% assign intro_image = page.image.path | default: page.image | relative_url | escape %}
     <div class="intro-image">
