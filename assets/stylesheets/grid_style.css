@@ -10,6 +10,9 @@
   #masthead{
 		margin-left: 70px;
 	}
+  #page-title{
+		margin-left: 70px;
+	}
 } 
 body{
 	display: flex;
