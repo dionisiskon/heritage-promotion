@@ -6,9 +6,6 @@ permalink: /about/
 
 # Πηγές
 
-<br>
-
-
 ### Ταζ Μαχαλ
 
 [Ο λόγος που το Ταζ Μαχάλ χρειάστηκε 22 χρόνια για να χτιστεί - Gazzetta](https://www.gazzetta.gr/plus/2065645/o-logos-poy-taz-mahal-hreiastike-22-hronia-gia-na-htistei-vid)
