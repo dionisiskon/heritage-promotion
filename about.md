@@ -12,11 +12,15 @@ permalink: /about/
 
 [Τατζ Μαχαλ - Wikipedia](https://el.wikipedia.org/wiki/Τατζ_Μαχάλ)
 
+[Ταζ Μαχάλ - Pixabay](https://pixabay.com/images/id-4808227/)
+
 ### Αγία Σοφία
 
 [Η ιστορία της Αγια-Σοφίας - Sansimera](https://www.sansimera.gr/articles/48)
 
 [Αγία Σοφία (Κωνσταντινούπολη) - Wikipedia](https://el.wikipedia.org/wiki/Αγία_Σοφία_(Κωνσταντινούπολη))
+
+[Αγία Σοφία - Pixabay](https://pixabay.com/images/id-775926/)
 
 ### Άνγκορ Βατ 
 
@@ -26,11 +30,15 @@ permalink: /about/
 
 [Το μυστηριώδες Ανγκορ Βατ -Αυτός είναι ο μεγαλύτερος ναός του κόσμου [εικόνες] - iefimerida.gr](https://www.iefimerida.gr/news/261461/mystiriodes-angkor-vat-aytos-einai-o-megalyteros-naos-toy-kosmoy-eikones)
 
+[Άνγκορ Βατ - Pixabay](https://pixabay.com/images/id-3773933/)
+
 ### Πόλη Μπαγκάν
 
 [ΜΠΑΓΚΑΝ-ΜΙΑΝΜΑΡ - Weebly](https://schey3.weebly.com/mupialphagammakappa940nu-muiotaalphanumu940rho.html)
 
 [Μπαγκάν - Wikipedia](https://el.wikipedia.org/wiki/Μπαγκάν)
+
+[Μπαγκάν - Pixabay](https://pixabay.com/images/id-7190522/)
 
 ### Μάτσου Πίτσου
 
@@ -38,11 +46,15 @@ permalink: /about/
 
 [Μάτσου Πίτσου - Wikipedia](https://el.wikipedia.org/wiki/Μάτσου_Πίτσου)
 
+[Μάτσου Πίτσου - Pixabay](https://pixabay.com/images/id-43387/)
+
 ### Ακρόπολη
 
 [Ακρόπολη Αθηνών - Wikipedia](https://el.wikipedia.org/wiki/Ακρόπολη_Αθηνών)
 
 [Η ΑΚΡΟΠΟΛΗ ΤΩΝ ΑΘΗΝΩΝ - Teithe](http://hellonet.teithe.gr/GR/aboutgreece/more/acropolis_gr.htm)
+
+[Ακρόπολη - Pixabay](https://pixabay.com/images/id-1594689/)
 
 ### Πυραμίδες της Γκίζας
 
@@ -52,11 +64,15 @@ permalink: /about/
 
 [Πυραμίδες της Γκίζας - Wikipedia](https://el.wikipedia.org/wiki/Πυραμίδες_της_Γκίζας)
 
+[Πυραμίδες της Γκίζας - Pixabay](https://pixabay.com/images/id-2371501/)
+
 ### Πέτρα
 
 [Πέτρα Ιορδανίας: Η Τριανταφυλλένια πόλη (pics) - Ethnos](https://www.ethnos.gr/travel/article/81095/petraiordaniashtriantafylleniapolhpics)
 
 [Πέτρα Ιορδανίας - Wikipedia](https://el.wikipedia.org/wiki/Πέτρα_Ιορδανίας)
+
+[Πέτρα - Pixabay](https://pixabay.com/images/id-4982346/)
 
 ### Σαγράδα Φαμίλια
 
@@ -64,11 +80,15 @@ permalink: /about/
 
 [Σαγράδα Φαμίλια - Wikipedia](https://el.wikipedia.org/wiki/Σαγράδα_Φαμίλια)
 
+[Σαγράδα Φαμίλια - Pixabay](https://pixabay.com/images/id-552084/)
+
 ### Παναγία των Παρισίων
 
 [Παναγία των Παρισίων - Wikipedia](https://el.wikipedia.org/wiki/Παναγία_των_Παρισίων)
 
 [Η συναρπαστική ιστορία της Παναγίας των Παρισίων - LIFO](https://www.lifo.gr/culture/arxaiologia/i-synarpastiki-istoria-tis-panagias-ton-parision)
+
+[Παναγία των Παρισίων - Pixabay](https://pixabay.com/images/id-2062491/)
 
 ### Μέκκα
 
@@ -76,8 +96,12 @@ permalink: /about/
 
 [Μέκκα - Wikipedia](https://el.wikipedia.org/wiki/Μέκκα)
 
+[Μέκκα - Pixabay](https://pixabay.com/images/id-4372296/)
+
 ### Θιβέτ
 
 [Η ιστορία του Θιβέτ - Sansimera](https://www.sansimera.gr/articles/81)
 
 [Θιβέτ - Wikipedia](https://el.wikipedia.org/wiki/Θιβέτ)
+
+[Θιβέτ - Pixabay](https://pixabay.com/images/id-895493/)
