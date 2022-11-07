@@ -8,8 +8,8 @@ permalink: /ar_app/
 
 Κατεβάστε την εφαρμογή Blippar για να βιώσετε την εμπειρία επαυξημένης πραγματικότητας.<br>
 Εφόσον κατεβάσετε την εφαρμογή, σαρώστε τις εικόνες (markers) που παρουσιάζονται πιο κάτω.<br>
+</div>
 ![Logo](/assets/images/logo1.png)
 ![Ακρόπολη](/assets/images/Acropole.jpg) 
 ![Αγία Σοφία](/assets/images/Agia_Sofia.jpg)
 ![Παναγία των Παρισίων](/assets/images/Notre_Dame.jpg)
-</div>
