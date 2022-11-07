@@ -10,8 +10,8 @@ permalink: /ar_app/
 Εφόσον κατεβάσετε την εφαρμογή, σαρώστε τις εικόνες (markers) που παρουσιάζονται πιο κάτω.<br>
 </div>
 <p style="center">
-<img src="/assets/images/logo1.png">
-<img src="/assets/images/Acropole.jpg">
-<img src="/assets/images/Agia_Sofia.jpg">
-<img src="/assets/images/Notre_Dame.jpg">
+<img src="assets/images/logo1.png">
+<img src="assets/images/Acropole.jpg">
+<img src="assets/images/Agia_Sofia.jpg">
+<img src="assets/images/Notre_Dame.jpg">
 </p>
