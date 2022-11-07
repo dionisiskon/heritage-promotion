@@ -51,7 +51,8 @@ google_fonts:
 
 navigation_pages:
   - pois.md
-  - about.md 
+  - about.md
+  - ar_app.md
   - contact.md
   - test.md
   
