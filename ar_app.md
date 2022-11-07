@@ -9,7 +9,9 @@ permalink: /ar_app/
 Κατεβάστε την εφαρμογή Blippar για να βιώσετε την εμπειρία επαυξημένης πραγματικότητας.<br>
 Εφόσον κατεβάσετε την εφαρμογή, σαρώστε τις εικόνες (markers) που παρουσιάζονται πιο κάτω.<br>
 </div>
-<img src="https://github.com/dionisiskon/heritage-promotion/blob/master/assets/images/logo1.png">
-<img src="https://github.com/dionisiskon/heritage-promotion/blob/master/assets/images/Acropole.jpg">
-<img src="https://github.com/dionisiskon/heritage-promotion/blob/master/assets/images/Agia_Sofia.jpg">
-<img src="https://github.com/dionisiskon/heritage-promotion/blob/master/assets/images/Notre_Dame.jpg">
+<p style="center">
+<img src="/assets/images/logo1.png">
+<img src="/assets/images/Acropole.jpg">
+<img src="/assets/images/Agia_Sofia.jpg">
+<img src="/assets/images/Notre_Dame.jpg">
+</p>
