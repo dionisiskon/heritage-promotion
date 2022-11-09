@@ -11,12 +11,16 @@ permalink: /ar_app/
 </div>
 <br><br>
 <p align="center">
-  <img src="https://github.com/dionisiskon/heritage-promotion/blob/master/assets/images/logo1.png?raw=true">
+  <img src="https://github.com/dionisiskon/heritage-promotion/blob/master/assets/images/logo1.png?raw=true"> <br><br>
+  <img src="https://github.com/dionisiskon/heritage-promotion/blob/master/assets/images/Acropole_marker.jpg?raw=true"> <br><br>
+  <img src="https://github.com/dionisiskon/heritage-promotion/blob/master/assets/images/Agia_Sofia_marker.jpg?raw=true"> <br><br>
+  <img src="https://github.com/dionisiskon/heritage-promotion/blob/master/assets/images/Taj_Mahal_marker.jpg?raw=true"> <br><br>
+  <img src="https://github.com/dionisiskon/heritage-promotion/blob/master/assets/images/Notre_Dame_marker.jpg?raw=true"> <br><br>
 </p>
 <!-- ![Logo](/assets/images/logo1.png) -->
-<br><br>
+<!-- <br><br>
 ![Ακρόπολη](/assets/images/Acropole.jpg) 
 <br><br>
 ![Αγία Σοφία](/assets/images/Agia_Sofia.jpg)
 <br><br>
-![Παναγία των Παρισίων](/assets/images/Notre_Dame.jpg)
+![Παναγία των Παρισίων](/assets/images/Notre_Dame.jpg) -->
