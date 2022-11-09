@@ -12,11 +12,11 @@ permalink: /ar_app/
 <br><br>
 <p align="center">
   <img src="https://github.com/dionisiskon/heritage-promotion/blob/master/assets/images/logo1.png?raw=true"> <br><br>
-  <img src="https://github.com/dionisiskon/heritage-promotion/blob/master/assets/images/Acropole_marker.jpg?raw=true"> <br><br>
-  <img src="https://github.com/dionisiskon/heritage-promotion/blob/master/assets/images/Agia_Sofia_marker.jpg?raw=true"> <br><br>
-  <img src="https://github.com/dionisiskon/heritage-promotion/blob/master/assets/images/Taj_Mahal_marker.jpg?raw=true"> <br><br>
-  <img src="https://github.com/dionisiskon/heritage-promotion/blob/master/assets/images/Notre_Dame_marker.jpg?raw=true"> <br><br>
 </p>
+<img src="https://github.com/dionisiskon/heritage-promotion/blob/master/assets/images/Acropole_marker.jpg?raw=true"> <br><br>
+<img src="https://github.com/dionisiskon/heritage-promotion/blob/master/assets/images/Agia_Sofia_marker.jpg?raw=true"> <br><br>
+<img src="https://github.com/dionisiskon/heritage-promotion/blob/master/assets/images/Taj_Mahal_marker.jpg?raw=true"> <br><br>
+<img src="https://github.com/dionisiskon/heritage-promotion/blob/master/assets/images/Notre_Dame_marker.jpg?raw=true">
 <!-- ![Logo](/assets/images/logo1.png) -->
 <!-- <br><br>
 ![Ακρόπολη](/assets/images/Acropole.jpg) 
