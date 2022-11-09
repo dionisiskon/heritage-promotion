@@ -14,6 +14,8 @@ permalink: /about/
 
 [Ταζ Μαχάλ - Pixabay](https://pixabay.com/images/id-4808227/)
 
+[Taj Mahal - PublicDomainPictures](https://www.publicdomainpictures.net/en/view-image.php?image=177650)
+
 ### Αγία Σοφία
 
 [Η ιστορία της Αγια-Σοφίας - Sansimera](https://www.sansimera.gr/articles/48)
@@ -21,6 +23,8 @@ permalink: /about/
 [Αγία Σοφία (Κωνσταντινούπολη) - Wikipedia](https://el.wikipedia.org/wiki/Αγία_Σοφία_(Κωνσταντινούπολη))
 
 [Αγία Σοφία - Pixabay](https://pixabay.com/images/id-775926/)
+
+[Αγία Σοφία - Hippopx](https://www.hippopx.com/el/istanbul-turkey-hagia-sophia-mosque-hagia-sofia-church-museum-474462)
 
 ### Άνγκορ Βατ 
 
@@ -56,6 +60,8 @@ permalink: /about/
 
 [Ακρόπολη - Pixabay](https://pixabay.com/images/id-1594689/)
 
+[Athènes Grèce Acropole - PublicDomainPictures](www.publicdomainpictures.net/fr/view-image.php?image=72936)
+
 ### Πυραμίδες της Γκίζας
 
 [Οι πυραμίδες της Γκίζας - Wortheverymile](https://www.wortheverymile.com/oi-pyramides-tis-gkizas/)
@@ -89,6 +95,8 @@ permalink: /about/
 [Η συναρπαστική ιστορία της Παναγίας των Παρισίων - LIFO](https://www.lifo.gr/culture/arxaiologia/i-synarpastiki-istoria-tis-panagias-ton-parision)
 
 [Παναγία των Παρισίων - Pixabay](https://pixabay.com/images/id-2062491/)
+
+[Notre Dame Cathedral, Paris, France: west facade - LOOKANDLEARN](https://www.lookandlearn.com/history-images/YW038628V/Notre-Dame-Cathedral-Paris-France-west-facade)
 
 ### Μέκκα
 
