@@ -10,7 +10,10 @@ permalink: /ar_app/
 Εφόσον κατεβάσετε την εφαρμογή, σαρώστε τις εικόνες (markers) που παρουσιάζονται πιο κάτω.<br>
 </div>
 <br><br>
-![Logo](/assets/images/logo1.png)
+<p align="center">
+  <img src="https://github.com/dionisiskon/heritage-promotion/blob/master/assets/images/logo1.png?raw=true">
+</p>
+<!-- ![Logo](/assets/images/logo1.png) -->
 <br><br>
 ![Ακρόπολη](/assets/images/Acropole.jpg) 
 <br><br>
